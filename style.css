@@ -1,0 +1,43 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.test_image_and_result{
+    background-color: rgb(163, 163, 163);
+    font-size: 15px;
+  
+}
+
+#footer{
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+    font-size: 20px;
+    background-color:rgb(193, 199, 211);
+    width: 100%;
+    line-height: =2;
+}
+
+.img-responsive{
+    border-radius: 5px;
+   box-shadow: 10px 10px 5px grey;
+   width: 200px;
+   
+}
+
+.bgcolour {
+    background-color: rgb(255, 159, 159);
+    border-radius: 8px;
+   box-shadow: 10px 10px 5px grey;
+   
+}
+
+.bgcolour1{
+    background-color: rgb(255, 255, 135);
+    border-radius: 8px;
+   box-shadow: 10px 10px 5px grey;
+}
+
+#result{
+    background-color: pink;
+}
